@@ -1,0 +1,49 @@
+#mytable {
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	float:left;
+}
+#mytable caption {
+	padding: 0 0 5px 0;
+	width: 50%;	 
+	font: italic 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	text-align: right;
+	color:red;
+}
+
+#mytable thead tr td {
+	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: #fff;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: left;
+	padding: 6px 6px 6px 12px;
+	background: #0083CA;
+}
+
+#mytable td{
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background: #fff;
+	padding: 6px 6px 6px 6px;
+	color: #4f6b72;
+}
+#mytable td img.img{height:50px; width:100px;}
+#mytable td img.img-prod{height:100px; width:100px;}
+#mytable td.red{
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background:#C69;
+	padding: 6px 6px 6px 12px;
+	color: #fff;
+}
+#mytable th span{
+	color: #E11A32;
+}
+#mytable th.produit{
+	font-size:14px;
+}

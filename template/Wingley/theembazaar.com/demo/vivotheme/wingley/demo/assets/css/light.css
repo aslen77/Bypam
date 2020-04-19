@@ -1,0 +1,29 @@
+.main-header{
+    border-bottom: 1px solid #e5e9f2;
+}
+.user-panel {
+    background: #fafafa;
+}
+.logo,
+.side_bar:before{
+	background:#fff;
+}
+.sidebar-menu li a{
+	color: rgba(0, 0, 0, 0.87);
+}
+.heading_home h2, .heading_home p, .dropdown-notification .dropdown-toggle i, .dropdown-inbox .dropdown-toggle i, .user-panel > .info > p, .user-panel > .info > a {
+    color: #53505f;
+}
+.sidebar-menu li a:hover {
+    background: #f5f5f5;
+    color:#53505f;
+}
+.sidebar-menu >li:hover > a {
+	background: #f5f5f5;
+	color:#53505f;
+}
+@media(max-width:991px){
+	.logo{
+		border-bottom: 1px solid #e5e9f2;
+	}
+}

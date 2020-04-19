@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Apr 2019 20:33:55 at http://html.codedthemes.com/flash-able/bootstrap/default/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "fr, en, *" http://html.codedthemes.com/flash-able/bootstrap/default/index.html -O1 "C:\Mes Sites Web\Flash able" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:58:46	Error: 	"Not Found" (404) at link html.codedthemes.com/flash-able/bootstrap/assets/images/nav-bg/navbar-img-6.jpg (from html.codedthemes.com/flash-able/bootstrap/assets/css/style.css)
+20:58:46	Error: 	"Not Found" (404) at link html.codedthemes.com/flash-able/bootstrap/default/dashboard-crypto.html (from html.codedthemes.com/flash-able/bootstrap/default/layout-static.html)
+20:59:27	Error: 	"Forbidden" (403) at link https://www.mapbox.com/files/assets/data/realworld.388.js (from html.codedthemes.com/flash-able/bootstrap/default/map-location.html)
+20:59:27	Warning: 	Retry after error -5 (Unable to get server's address: Hôte inconnu. ) at link {s}.tile.osm.org/{z}/{x}/{y}.png (from html.codedthemes.com/flash-able/bootstrap/default/map-location.html)
+21:00:07	Warning: 	Retry after error -4 (No data (connection closed)) at link html.codedthemes.com/flash-able/bootstrap/default/extra-pages/landingpage/assets/logos/cart1.png (from html.codedthemes.com/flash-able/bootstrap/default/extra-pages/landingpage/index.html)
+21:00:07	Error: 	"Not Found" (404) at link html.codedthemes.com/flash-able/bootstrap/default/cropped.jpg (from html.codedthemes.com/flash-able/bootstrap/default/image_crop.html)
+21:00:07	Error: 	"Not Found" (404) at link html.codedthemes.com/flash-able/bootstrap/assets/plugins/owl-carousel/css/owl.video.play.png (from html.codedthemes.com/flash-able/bootstrap/assets/plugins/owl-carousel/css/owl.carousel.min.css)
+21:00:07	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link {s}.tile.osm.org/{z}/{x}/{y}.png (from html.codedthemes.com/flash-able/bootstrap/default/map-location.html)
+21:00:07	Error: 	"Not Found" (404) at link html.codedthemes.com/flash-able/bootstrap/default/extra-pages/landingpage/assets/css/grabbing.png (from html.codedthemes.com/flash-able/bootstrap/default/extra-pages/landingpage/assets/css/owl.carousel.css)
+21:00:07	Error: 	"Not Found" (404) at link html.codedthemes.com/flash-able/bootstrap/default/extra-pages/landingpage/assets/css/AjaxLoader.gif (from html.codedthemes.com/flash-able/bootstrap/default/extra-pages/landingpage/assets/css/owl.theme.css)
+21:00:18	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link {s}.tile.osm.org/{z}/{x}/{y}.png (from html.codedthemes.com/flash-able/bootstrap/default/map-location.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 26 minutes 23 seconds : 618 links scanned, 606 files written (40207799 bytes overall) [39662097 bytes received at 25055 bytes/sec], 1215430 bytes transferred using HTTP compression in 10 files, ratio 25%, 2.1 requests per connection
+(8 errors, 3 warnings, 0 messages)

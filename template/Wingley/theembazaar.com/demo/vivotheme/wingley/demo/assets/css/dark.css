@@ -1,0 +1,16 @@
+
+.user-panel {
+    background: #1b1f24;
+}
+.logo,
+.side_bar:before{
+	background:#1d2126;
+}
+.sidebar-menu >li:hover > a {
+	background: #1b1f24;
+}
+@media(max-width:991px){
+	.logo{
+		border-bottom: 1px solid #e5e9f2;
+	}
+}
